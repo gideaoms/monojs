@@ -1,0 +1,26 @@
+{
+  "name": "monojs",
+  "version": "1.0.0",
+  "description": "Structure of a nodejs project based on express",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gideaoms/monojs.git"
+  },
+  "keywords": [],
+  "author": "Gideao Silva <gideaoms@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gideaoms/monojs/issues"
+  },
+  "homepage": "https://github.com/gideaoms/monojs#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
