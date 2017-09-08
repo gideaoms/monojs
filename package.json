@@ -1,6 +1,6 @@
 {
   "name": "monojs",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Structure of a nodejs project based on express",
   "main": "lib/index.js",
   "directories": {
@@ -13,7 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/gideaoms/monojs.git"
   },
-  "keywords": ["node", "express", "monojs"],
+  "keywords": [
+    "node",
+    "express",
+    "monojs"
+  ],
   "author": "Gideao Silva <gideaoms@gmail.com>",
   "license": "MIT",
   "bugs": {
@@ -21,6 +25,7 @@
   },
   "homepage": "https://github.com/gideaoms/monojs#readme",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "express": "^4.15.4",
+    "mongoose": "^4.11.10"
   }
 }
