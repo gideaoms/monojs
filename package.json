@@ -2,7 +2,7 @@
   "name": "monojs",
   "version": "1.0.0",
   "description": "Structure of a nodejs project based on express",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/gideaoms/monojs.git"
   },
-  "keywords": [],
+  "keywords": ["node", "express", "monojs"],
   "author": "Gideao Silva <gideaoms@gmail.com>",
   "license": "MIT",
   "bugs": {
