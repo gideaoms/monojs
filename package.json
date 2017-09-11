@@ -1,6 +1,6 @@
 {
   "name": "monojs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Structure of a nodejs project based on express",
   "main": "lib/index.js",
   "directories": {
@@ -26,6 +26,9 @@
   "homepage": "https://github.com/gideaoms/monojs#readme",
   "dependencies": {
     "express": "^4.15.4",
+    "http": "0.0.0",
+    "http-status": "^1.0.1",
+    "indicative": "^3.0.0",
     "mongoose": "^4.11.10"
   }
 }
