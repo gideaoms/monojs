@@ -1,11 +1,14 @@
 # monojs
 
+##Installation
+```sh
+# Get the latest stable release of Sails
+$ git clone https://github.com/gideaoms/monojs-app-start.git appName
+$ cd appName
+$ npm install
+```
+
 ## Usage
-
-git clone https://github.com/gideaoms/monojs-app-start.git appName
-cd appName
-npm install
-
 ```js
 const monojs = require('monojs')
 const express = require('express')
