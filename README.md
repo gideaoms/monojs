@@ -1,6 +1,6 @@
 # monojs
 
-##Installation
+## Installation
 ```sh
 $ git clone https://github.com/gideaoms/monojs-app-start.git appName
 $ cd appName
